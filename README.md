@@ -1,6 +1,9 @@
 # Hangman-Bash
 Hangman game using Bash scripting
 
+# copy of game
+
+
 This is a mini-project for the course IT202 : Unix programming and practice, for 2nd year IT at NITK-Surathkal.
 
 It is a guessing game.
